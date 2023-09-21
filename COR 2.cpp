@@ -8,7 +8,7 @@ int main (){
 	
 	char [50] name;
 	char [50] college;
-	char [50 ]program;
+	char [50]program;
 	
 cout <<"Term: ";
 cin >> term;
